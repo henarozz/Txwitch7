@@ -1,0 +1,12 @@
+logs/
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/Txwitch.iml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/php.xml
+.DS_Store
+nbproject/
+vendor/
+composer.lock
