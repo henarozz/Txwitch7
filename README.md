@@ -1,6 +1,6 @@
 Txwitch7
 =======
-[Txwitch7](https://github.com/henarozz/Txwitch7) — web application that allows you to extract HLS links from [Twitch.tv](https://www.twitch.tv). Based on [PHP Slim Framework 3](http://www.slimframework.com). The application will be useful for old iOS devices.
+[Txwitch7](https://github.com/henarozz/Txwitch7) — web application that allows you to extract HLS links from [Twitch.tv](https://www.twitch.tv). Based on [PHP Slim Framework 3](http://www.slimframework.com). The application will be useful for old iOS devices. PHP 7.3 version.
 
 Requirements
 ---------------
